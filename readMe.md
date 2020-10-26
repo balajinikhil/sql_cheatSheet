@@ -450,6 +450,7 @@ STORED PROCEDURE IN SQL
 
 
 STORED PROCEDURE WITH PARAMETER SYNTAX
+	
 	create procedure name @param datatype
 	as
 	select * from tableName where col1=@param
